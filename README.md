@@ -5,7 +5,23 @@ Resposta ao exercício de Orientação a Objetos Avançada em Java.
 Este repositório contém as soluções dos exercícios focados em Programação Orientada a Objetos (POO) avançada em Java. Cada exercício explora conceitos avançados como herança, abstração, interfaces, classes da linguagem Java.
 
 Estrutura do Repositório:
-src/: Contém os arquivos-fonte organizados por classes.
+src/
+   └── AnimalAB.java
+   └── AnimalIF.java
+   └── AnimalMarinhoAB.java
+   └── AnimalTerrestreAB.java
+   └── AnimalVoadorAB.java
+   └── App.java
+   └── Cachorro.java
+   └── Elefante.java
+   └── Gato.java
+   └── Leao.java
+   └── Peixe.java
+   └── Pombo.java
+
+src/: Contém as classes concretas
+
+O arquivo App.java faz a execução do codigo.
 
 As questões respondidas foram:
 
