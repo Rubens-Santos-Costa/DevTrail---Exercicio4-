@@ -32,7 +32,7 @@ src/
    
    └── Pombo.java
 
-src/: Contém as classes concretas
+
 
 O arquivo App.java faz a execução do codigo.
 
