@@ -27,7 +27,7 @@ public class Pombo extends AnimalVoadorAB{
     };
     public void moverse(int distancia, String unidadeDeMedidaDistancia){
         posicao = distancia;
-        System.out.printf("O Pombo vou %d %s de distancia%n", posicao, unidadeDeMedidaDistancia);
+        System.out.printf("O Pombo voou %d %s de distancia%n", posicao, unidadeDeMedidaDistancia);
     };
     public void dormir(int duracao, String unidadeDeMedidaTempo){
         tempo = duracao;
